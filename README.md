@@ -4,6 +4,7 @@
 
 1. [Description](#description)
 2. [Usage](#usage)
+3. [Reference](#reference)
 
 ## Description
 
@@ -19,3 +20,9 @@ Run "pdk test unit" or do the tests separately.
 4. pdk test unit --tests=spec/type_aliases/typetest1_test4_spec.rb
 5. pdk test unit --tests=spec/type_aliases/typetest1_test5_spec.rb
 6. pdk test unit --tests=spec/type_aliases/typetest1_test6_spec.rb
+
+## Reference
+
+See the PDK bug:
+
+https://tickets.puppetlabs.com/browse/PDK-868
